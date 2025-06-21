@@ -1,8 +1,8 @@
-Desafio - Modelo de Domínio e ORM
+Aulas - Modelo de Domínio e ORM
 
 Esse projeto faz parte do curso de Spring Boot do DevSuperior, no módulo de Modelo de Domínio e ORM.
 
-O objetivo deste desafio é praticar os conceitos de:
+O objetivo deste repositório é praticar os conceitos de:
 
   Modelagem de domínio com Java
 
